@@ -1,0 +1,21 @@
+plugins {
+
+    id 'java-library'
+    id 'java'
+}
+
+repositories {
+    google()
+    mavenCentral()
+}
+
+dependencies {
+
+    implementation 'org.seleniumhq.selenium:selenium-java:4.21.0'
+    implementation 'org.seleniumhq.selenium:selenium-server:4.0.0-alpha-2'
+    implementation 'org.seleniumhq.selenium:selenium-chrome-driver:4.21.0'
+    implementation 'io.appium:java-client:9.2.0'
+    testImplementation 'io.github.bonigarcia:webdrivermanager:5.8.0'
+    testImplementation 'junit:junit:4.13.2'
+
+}

@@ -1,0 +1,18 @@
+
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(³¡ºœşÿÿÿÿ8¾¦ ’ü1J$8186d4f4-393d-4b43-8eb6-184435663027
+r	java:S106"+Replace this use of System.out by a logger.(û—œıÿÿÿÿ8Æ¦ ’ü1J$c35c01b5-4300-4154-af64-28ae7808bc18
+ƒ	java:S125!"<This block of commented-out lines of code should be removed.(­û‘ıùÿÿÿÿ8È¦ ’ü1J$6470a241-eb59-4727-95df-93f7963ef127
+~	java:S125-"<This block of commented-out lines of code should be removed.(­§Ôó8È¦ ’ü1J$e4b31586-e0df-4f22-93f2-83f8fff3df52
+~	java:S125D"<This block of commented-out lines of code should be removed.(ùóÖš8Õ¦ ’ü1J$06e62c67-858c-4c0f-808c-806473a78d19
+
+java:S1128"7Remove this unused import 'org.openqa.selenium.chrome'.(õ¨Ôêøÿÿÿÿ8Ø¦ ’ü1J$3116aeee-fdad-4ff2-a8ab-01b89862991a
+l
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8Ø¦ ’ü1J$15450f08-e4bf-4074-a1c6-ec287f9e1f2e
+‚
+java:S1128	":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8Ø¦ ’ü1J$fb569d6b-ccb3-4638-b0da-7cda523e4c69
+s
+java:S1128
+"0Remove this unused import 'java.io.PrintStream'.(×ê’8Ø¦ ’ü1J$28c6b801-ae22-47cf-86b2-510f8baf0368
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Ù¦ ’ü1J$7bff363c-d215-4c3f-b905-ff49ce38f788
