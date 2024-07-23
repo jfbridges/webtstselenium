@@ -40,7 +40,7 @@
     <h2>Requisitos previos</h2>
     <ul>
         <li>Java JDK 8 o superior</li>
-        <li>Maven</li>
+        <li>Gradle</li>
         <li>Selenium WebDriver</li>
         <li>Un IDE de su elección (por ejemplo, IntelliJ IDEA, Eclipse)</li>
     </ul>
